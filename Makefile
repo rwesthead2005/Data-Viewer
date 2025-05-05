@@ -1,8 +1,8 @@
 # Makefile for C++ Template Project
 
 # Variables
-NAME = template
-VERSION = 0.0.0
+NAME = data-viewer
+VERSION = 0.0.1
 PREFIX ?= $(HOME)/.local
 
 CXX ?= g++
